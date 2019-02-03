@@ -1,6 +1,6 @@
 [
   {
-    "studentID": "604234020",
+    "studentID": 604234020,
     "firstName": "Wanida",
     "lastName": "Baikodem",
     "nickName": "Nida",
@@ -10,7 +10,7 @@
     "picture" : "https://raw.githubusercontent.com/604234030cs/ionic2/master/51172500_362596811242024_6425274270271668224_n.jpg"
   },
   {
-    "studentID": "604234028",
+    "studentID": 604234028,
     "firstName": "Adeenas",
     "lastName": "Sabubuk",
     "nickName": "Nas",
@@ -20,7 +20,7 @@
     "picture" : "https://raw.githubusercontent.com/604234030cs/ionic1/master/36980027_1604035376371944_8507361612351406080_n.jpg" 
   },
   {
-    "studentID": "604234030",
+    "studentID": 604234030,
     "firstName": "Arrawee",
     "lastName": "Ma-eakkhien",
     "nickName": "Vee",
