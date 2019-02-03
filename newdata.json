@@ -4,17 +4,17 @@
     "firstName": "Wanida",
     "lastName": "Baikodem",
     "nickName": "Nida",
-    "faculty" "Science And Technology",
+    "faculty" :"Science And Technology",
     "major": "ComputerScience",
     "birthday": "1998-11-14",
-    "picture" : https://raw.githubusercontent.com/604234030cs/ionic2/master/51172500_362596811242024_6425274270271668224_n.jpg
+    "picture" : "https://raw.githubusercontent.com/604234030cs/ionic2/master/51172500_362596811242024_6425274270271668224_n.jpg"
   },
   {
     "studentID": "604234028",
     "firstName": "Adeenas",
     "lastName": "Sabubuk",
     "nickName": "Nas",
-    "faculty" "Science And Technology",
+    "faculty" :"Science And Technology",
     "major": "ComputerScience",
     "birthday": "1998-10-30",
     "picture" : "https://raw.githubusercontent.com/604234030cs/ionic1/master/36980027_1604035376371944_8507361612351406080_n.jpg" 
@@ -24,8 +24,8 @@
     "firstName": "Arrawee",
     "lastName": "Ma-eakkhien",
     "nickName": "Vee",
-    "faculty" "Science And Technology",
+    "faculty" :"Science And Technology",
     "major": "ComputerScience",
     "birthDay": "1999-01-2",
-    "picture" : https://raw.githubusercontent.com/604234030cs/ionic3/master/50976870_1537686139695661_6723321425538580480_n.jpg
+    "picture" : "https://raw.githubusercontent.com/604234030cs/ionic3/master/50976870_1537686139695661_6723321425538580480_n.jpg"
   }
